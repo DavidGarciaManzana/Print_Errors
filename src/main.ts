@@ -8,4 +8,3 @@ let printErrors = (str:string): string => {
     return `${error}/${str.length}`;
 }
 // console.log(printErrors("aazz"));
-
